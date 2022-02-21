@@ -1,0 +1,2 @@
+boto3==1.21.3
+fake-web-events==0.2.5
