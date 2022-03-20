@@ -8,6 +8,8 @@ Here we're using AWS services:
 - Glue
 - Athena
 
+It's a low-code solution using the Amazon Web Services.
+
 # Architecture Model
 
 ![Architecture Model](./pictures/architecture_model.png)
